@@ -140,6 +140,16 @@ body{
     background-image: url('backg.jpg');
 }
 
-.navbar-brand{
-    margin-right: 50%;
-}
+
+
+
+@media screen and (max-width: 600px) {
+    #info{
+      visibility: hidden;
+      clear: both;
+      float: left;
+      margin: 10px auto 5px 20px;
+      width: 28%;
+      display: none;
+    }
+  }
