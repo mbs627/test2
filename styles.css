@@ -1,8 +1,8 @@
 #forms{
     margin-top: 1%;
-    margin-bottom: 20%;
+    margin-bottom: 30%;
     /*margin-left: 5%;*/
-    margin-right: 150px;
+    /*margin-right: 100px;*/
     border-radius: 5px;
     background-color: rgba(241, 241, 240, 0.466);
     padding-top: 4%;
@@ -16,13 +16,13 @@
 
 #info{
     margin-top: 1%;
-    margin-bottom: 50%;
+    margin-bottom: 30%;
    /* margin-left: 50%;
    /* margin-right: 5%;*/
     border-radius: 5px;
     padding-top: 4%;
     padding-left: 10%;
-    padding-right: 1%;
+    padding-right: 3%;
     padding-bottom: 3%;
 
 
