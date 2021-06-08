@@ -139,3 +139,7 @@
 body{
     background-image: url('backg.jpg');
 }
+
+.navbar-brand{
+    margin-right: 50%;
+}
